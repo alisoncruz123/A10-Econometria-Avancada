@@ -1,1 +1,2 @@
-# A10-Econometria-Avancada
+# 10-Previsao
+Criando previsões a partir dos modelos.
